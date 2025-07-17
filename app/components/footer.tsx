@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold font-serif text-gradient mb-4">Le Château Noir</h3>
+            <h3 className="text-2xl font-bold font-serif text-gradient mb-4">HyperLend</h3>
             <p className="text-white/70 mb-6 max-w-md">
               Discover authentic French cuisine in an atmosphere of unparalleled elegance. Every dish is a work of art,
               created with love and mastery.
@@ -62,7 +62,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-500/20 mt-8 pt-8 text-center">
-          <p className="text-white/50">© 2025 Le Château Noir. All rights reserved.</p>
+          <p className="text-white/50">© 2025 HyperLend. All rights reserved.</p>
         </div>
       </div>
     </footer>

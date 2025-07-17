@@ -40,7 +40,7 @@ export default function DesignPage() {
           {restaurantImages[3] && (
             <div className="col-span-12 lg:col-span-8 row-span-2">
               <div className="elegant-card group cursor-pointer h-full">
-                <div className="relative h-96 lg:h-[500px] rounded-2xl overflow-hidden">
+                <div className="relative h-96 lg:h-[750px] rounded-2xl overflow-hidden">
                   <Image
                     src={restaurantImages[3].image || "/placeholder.svg?height=500&width=800"}
                     alt={restaurantImages[3].title}
@@ -121,26 +121,28 @@ export default function DesignPage() {
           )}
 
           {/* Additional design elements */}
+          {/* Additional design elements */}
           <div className="elegant-card group cursor-pointer">
             <div className="relative h-64 rounded-xl overflow-hidden mb-6">
               <Image
-                src="/db0a147c90e3b067dc4635f4c14cd29a.jpg"
-                alt="Cocktail Bar"
+                src="/7dc4e436ce199c9358f159921e32bcb6.jpg"
+                alt="Banquet Hall"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-dark-950/60 to-transparent"></div>
               <div className="absolute top-4 right-4">
                 <div className="w-12 h-12 bg-primary-500/20 backdrop-blur-sm rounded-full flex items-center justify-center">
-                  <span className="text-primary-400 text-xl">🍸</span>
+                  <span className="text-primary-400 text-xl">🍽️</span>
                 </div>
               </div>
             </div>
-            <h3 className="font-serif text-2xl font-bold text-gradient mb-3">Cocktail Bar</h3>
+            <h3 className="font-serif text-2xl font-bold text-gradient mb-3">Banquet Hall</h3>
             <p className="text-white/70 leading-relaxed">
-              Sophisticated bar area featuring premium spirits and signature cocktails crafted by expert mixologists
+              Spacious banquet hall perfect for weddings, corporate events, and private celebrations, with customizable layouts and premium catering services
             </p>
           </div>
+
 
           <div className="elegant-card group cursor-pointer">
             <div className="relative h-64 rounded-xl overflow-hidden mb-6">

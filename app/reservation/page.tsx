@@ -50,7 +50,7 @@ export default function ReservationPage() {
             <p className="text-white/80 text-lg mb-6 leading-relaxed">
               Your table reservation request has been received. We will contact you shortly to confirm the details.
             </p>
-            <p className="text-white/70 mb-8">We look forward to welcoming you at Le Château Noir!</p>
+            <p className="text-white/70 mb-8">We look forward to welcoming you at HyperLend!</p>
             <div className="border-t border-primary-500/20 pt-6">
               <p className="text-white/60 text-sm">If you have any questions, we are always ready to help</p>
             </div>

@@ -8,7 +8,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="font-serif text-2xl font-bold text-primary-400 mb-4">1. General Provisions</h2>
             <p className="text-white/70 mb-4">
-              This Privacy Policy describes how Le Château Noir collects, uses and protects your personal information
+              This Privacy Policy describes how HyperLend collects, uses and protects your personal information
               when using our website and services.
             </p>
             <p className="text-white/70">By using our site, you agree to the terms of this privacy policy.</p>

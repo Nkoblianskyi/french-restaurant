@@ -144,10 +144,10 @@ export const restaurantImages = [
     image: "/f2fd8d78f3d052d768ee4eadb2822a2a.jpg",
   },
   {
-    id: 4,
-    title: "Wine Cellar",
-    description: "Collection of the finest French wines and champagne",
-    image: "/5fabc40b6fcb549b7a940bb7d5417ec0.jpg",
+    "id": 4,
+    "title": "Cheese Cellar",
+    "description": "Collection of the finest French cheeses and artisanal delicacies",
+    "image": "/45d3ffa0d1d4e5d462d4741104ead697.jpg"
   },
   {
     id: 5,

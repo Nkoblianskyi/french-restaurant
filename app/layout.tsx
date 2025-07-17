@@ -19,10 +19,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Le Château Noir - Fine French Dining Restaurant",
+  title: "HyperLend - Fine French Dining Restaurant",
   description:
     "Discover authentic French cuisine in an atmosphere of unparalleled elegance. Every dish is a work of art.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

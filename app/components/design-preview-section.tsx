@@ -34,15 +34,15 @@ export default function DesignPreviewSection() {
           <div className="elegant-card group cursor-pointer">
             <div className="relative h-64 rounded-xl overflow-hidden mb-6">
               <Image
-                src="/5fabc40b6fcb549b7a940bb7d5417ec0.jpg"
-                alt="Wine Cellar"
+                src="/45d3ffa0d1d4e5d462d4741104ead697.jpg"
+                alt="Cheese Cellar"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-dark-950/60 to-transparent"></div>
               <div className="absolute bottom-4 left-4">
-                <h3 className="font-serif text-lg font-bold text-white mb-1">Wine Cellar</h3>
-                <p className="text-white/80 text-sm">Finest French wines</p>
+                <h3 className="font-serif text-lg font-bold text-white mb-1">Cheese Cellar</h3>
+                <p className="text-white/80 text-sm">Collection of the finest French cheeses</p>
               </div>
             </div>
           </div>
