@@ -20,7 +20,7 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold font-serif text-gradient">
-            HyperLend
+            FrenchTaste
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
