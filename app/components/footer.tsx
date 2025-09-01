@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold font-serif text-gradient mb-4">HyperLend</h3>
+            <h3 className="text-2xl font-bold font-serif text-gradient mb-4">FrenchTaste</h3>
             <p className="text-white/70 mb-6 max-w-md">
               Discover authentic French cuisine in an atmosphere of unparalleled elegance. Every dish is a work of art,
               created with love and mastery.
