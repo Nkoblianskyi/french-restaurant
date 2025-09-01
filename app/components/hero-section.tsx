@@ -28,7 +28,7 @@ export default function HeroSection() {
           <div className="inline-block px-6 py-2 bg-primary-500/10 border border-primary-500/20 rounded-full mb-6">
             <span className="text-primary-400 text-sm font-medium tracking-wider uppercase">Fine French Dining</span>
           </div>
-          <h1 className="hero-text mb-6 animate-fade-in">HyperLend</h1>
+          <h1 className="hero-text mb-6 animate-fade-in">FrenchTaste</h1>
           <p className="text-2xl md:text-3xl text-white/90 mb-4 font-light text-shadow">
             Where Culinary Art Meets Excellence
           </p>
